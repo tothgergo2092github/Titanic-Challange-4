@@ -1,4 +1,4 @@
-# Titanic-Challange-4-KPMG
+# Titanic-Challange-4
 
 ## Fontos információk:
 Ez a projekt a Titanic Challange Kaggle Competitionhoz hasonló feladat volt.
